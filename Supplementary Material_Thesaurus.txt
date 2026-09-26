@@ -1,0 +1,12 @@
+label,replace by
+algorithms,algorithm
+models,model
+rocks,rock
+artificial neural networks,artificial neural network
+artificial neural-network,artificial neural network
+artificial neural-networks,artificial neural network
+neural-networks,neural-network
+peak particle-velocity,peak particle velocity
+support vector machines,support vector machine
+ann,artificial neural network
+ppv,peak particle velocity
